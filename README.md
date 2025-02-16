@@ -1,4 +1,16 @@
 ## Hi there 👋
+I'm Karen Ajayi, a Data Analyst with experience in fraud analysis, service delivery and financial analysis.
+
+## 🔷 About Me
+💼 Currently working as a **Fraud Analyst** with expertise in compliance and risk management.
+🎯 Passionate about **Data Analytics**.
+📊 Skilled in **SQL, Python, SAS Enterprise Miner, Microsoft Office Tools, Oracle SQL**.
+🌱 Currently learning **GitHub, version control, and open-source collaboration**.
+
+## 📫 Let's Connect
+- 📧 **Email**: ajayikaren@outlook.com
+- 🔗 **LinkedIn**: https://www.linkedin.com/in/karen-ajayi-6072a5154/
+ 
 
 <!--
 **KarenAjayi/KarenAjayi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

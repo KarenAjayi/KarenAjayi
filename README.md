@@ -2,10 +2,10 @@
 I'm Karen Ajayi, a Data Analyst with experience in fraud analysis, service delivery and financial analysis.
 
 ## 🔷 About Me
-💼 Currently working as a **Fraud Analyst** with expertise in compliance and risk management.
-🎯 Passionate about **Data Analytics**.
-📊 Skilled in **SQL, Python, SAS Enterprise Miner, Microsoft Office Tools, Oracle SQL**.
-🌱 Currently learning **GitHub, version control, and open-source collaboration**.
+- 💼 Currently working as a **Fraud Analyst** with expertise in compliance and risk management.
+- 🎯 Passionate about **Data Analytics**.
+- 📊 Skilled in **SQL, Python, SAS Enterprise Miner, Microsoft Office Tools, Oracle SQL**.
+- 🌱 Currently learning **GitHub, version control, and open-source collaboration**.
 
 ## 📫 Let's Connect
 - 📧 **Email**: ajayikaren@outlook.com
